@@ -19,7 +19,7 @@
    section_one/section0
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 第一部分 emXGUI控件应用开发
    :numbered:
 
@@ -51,7 +51,6 @@
    section_one/section26
    section_one/section27
    section_one/section28
-.. convert_docx
 
 .. toctree::
    :maxdepth: 2
