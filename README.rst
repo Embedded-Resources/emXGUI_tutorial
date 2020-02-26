@@ -3,7 +3,7 @@
 关于本项目
 ==============
 
-本项目的github地址：https://github.com/Embdefire/emXGUI_tutorial_doc.git
+本项目的github地址：https://github.com/Embedfire/emXGUI_tutorial_doc.git
 
 本项目的gitee 地址：https://gitee.com/wildfireteam/emXGUI_tutorial_doc.git
 
